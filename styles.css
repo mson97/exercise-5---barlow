@@ -1,0 +1,22 @@
+body {
+    background:black;
+    font-family: 'Barlow', sans-serif;
+}
+h1 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 10em;
+    padding-left: 0.5em;
+    color: antiquewhite;
+}
+
+p {
+    color: antiquewhite;
+    padding-left: 10em;
+    max-width: 50em;
+    font-size: 1.25em;
+}
+
+a {
+    color: black;
+    background: cornsilk;
+}
